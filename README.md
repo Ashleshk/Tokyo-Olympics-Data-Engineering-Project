@@ -6,30 +6,36 @@ This data Engineering project focuses on the Olympic Games, examining the number
 - **Azure Synapsis Analytics** for data Analysis 
 -  **Power BI** for visualization 
 
--------
+
 ```
 **All Configured on Azure Cloud (Student Supsciption)**
 ```
+
 -------
 
-### Design Flow
+## Design Flow
 
 ![design](resources/Design.png)
 
-### Data Ingestion 
+## Data Ingestion 
 
 ![DataPipeline](resources/DataPieline.png)
 
-### Data Visualization
+## Data Transformation & Manipulation
+
+```
+basic Python notebook attached. (Main one not attached)
+```
+
+## Data Visualization
 
 Before building the Power BI dashboard,  This involved cleaning and filtering the data to ensure accuracy and consistency, as well as preparing it for use in Power BI. Once the data was transformed, I built a Power BI dashboard to visualize the data and identify insights.
-s
+
 
 ![Dashboard](resources/Dashboard.png)
 
-
-### Workflows & Analysis
+## Workflows & Analysis
 
 During this analysis, I investigated the number of athletes who participated in each edition of the Olympics, as well as the number of medals awarded in different sports and disciplines. By studying this data, I was able to identify several interesting trends and patterns, including changes in the number of sports and disciplines over time and the dominance of certain athletes in specific events.
 
-Overall, this analysis provides a comprehensive overview of the history and evolution of the Olympic Games, as well as valuable insights into athlete performance and sport-level trends. The use of SQL Server and Power BI allowed for efficient data transformation and visualization, and these findings can be used to inform future Olympic planning and strategy, as well as inspire athletes and fans around the world.
+Overall, this analysis provides a comprehensive overview of the history and evolution of the Olympic Games, as well as valuable insights into athlete performance and sport-level trends. The use of various tools - **Azure Storage Containers, Databricks, Synapsis Analytics and Power BI** allowed for efficient data transformation and visualization, and these findings can be used to inform future Olympic planning and strategy, as well as inspire athletes and fans around the world.
