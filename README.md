@@ -8,7 +8,7 @@ This data Engineering project focuses on the Olympic Games, examining the number
 
 
 ```
-**All Configured on Azure Cloud (Student Supsciption)**
+** - Used Azure Cloud extensively with student supsciption - **
 ```
 
 -------
